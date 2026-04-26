@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This project showcases my work, skills, and passion for software development and artificial intelligence through a highly interactive and immersive 3D experience.
 
-![Portfolio Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+![Portfolio Preview](./portfolio-preview.png)
 
 ## 🌟 Overview
 
